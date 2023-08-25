@@ -130,5 +130,8 @@
 ![API정의서](https://ssafy9-monpalette.s3.ap-northeast-2.amazonaws.com/API%EC%A0%95%EC%9D%98%EC%84%9C/%ED%9A%8C%EC%9B%902.PNG)
  
   
-## [구현 영상]()
-[![IMAGE ALT TEXT HERE](썸네일)](영상정보)
+## [구현 영상]
+https://github.com/SWan9710/SSAFY-9-2-Mon-Palette/assets/122499680/f65d0a16-0fa2-4c4e-8157-baa2144763c0
+
+
+
